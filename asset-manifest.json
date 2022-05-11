@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hotelapp/static/css/main.5f707330.css",
+    "main.js": "/hotelapp/static/js/main.e7aa95cc.js",
+    "static/media/villa.jpg": "/hotelapp/static/media/villa.16aa6f4913aa7711fdff.jpg",
+    "static/media/yurts.jpg": "/hotelapp/static/media/yurts.6c1751de63bc5594092e.jpg",
+    "static/media/seoul.jpg": "/hotelapp/static/media/seoul.de3e8b4e162883b127ca.jpg",
+    "static/media/losangeles.jpg": "/hotelapp/static/media/losangeles.9ffd20d2a2d3d04152c7.jpg",
+    "static/media/lasvegas.jpg": "/hotelapp/static/media/lasvegas.46c74c13a93c45374d7d.jpg",
+    "static/media/logcabin.jpg": "/hotelapp/static/media/logcabin.f4658dd7e3c06c91cf29.jpg",
+    "static/media/hotel.jpg": "/hotelapp/static/media/hotel.98a8ff7ab8071a1993c8.jpg",
+    "static/media/home.jpg": "/hotelapp/static/media/home.c2a3a17491767ad388b4.jpg",
+    "index.html": "/hotelapp/index.html",
+    "main.5f707330.css.map": "/hotelapp/static/css/main.5f707330.css.map",
+    "main.e7aa95cc.js.map": "/hotelapp/static/js/main.e7aa95cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f707330.css",
+    "static/js/main.e7aa95cc.js"
+  ]
+}
